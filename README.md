@@ -2,9 +2,9 @@
 ## Overview
 The purpose of this project was to create a summary DataFrame that deliver the infomation needed about the performance of the company during 2019. It is  grouped by three city types: Urban, Suburban, and Rural cities with a line graph that shows total weekly fares for each city type for the weeks between January 1, 2019 and April 29, 2019.
 ## Results
-https://github.com/harryleelhl/PyBer_Analysis/blob/master/analysis/Summary.png
+![image]https://github.com/harryleelhl/PyBer_Analysis/blob/master/analysis/Summary.png
 Summary Table Conclusion: By comparing the average fare per rides between each city type, rural cities have highest average fare per ride than suburban and urban by around four dollars and 10 dollars, respectively. For the column of average fare per driver, rural cities also perform well than suburban and urban cities by 40% and 230%. The reason is that the rides and drivers count of rural cities, significantly lower than urban and suburban cities. It leads to average values greater than urban and suburban.
-https://github.com/harryleelhl/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png
+![image]https://github.com/harryleelhl/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png
 ## Summary
 1.This multiple-line charts show the total fare per city type changes by times. The X axis shows date from 1/1/2019 to 4/28/2019, and total fare in Y axis. In that line chart, Urban cities have highest total fares all the time, and Rural cities are lowest all over time. Suburban's line is in the middle.
 
